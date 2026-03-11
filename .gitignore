@@ -1,0 +1,26 @@
+# WinDivert
+WinDivert-2.2.2-A/
+
+# Build outputs
+build/
+dist/
+out/
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+CLAUDE.md
